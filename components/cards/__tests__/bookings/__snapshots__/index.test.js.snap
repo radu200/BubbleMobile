@@ -1,0 +1,126 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Booking component renders correctly 1`] = `
+<View
+  accessible={true}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "backgroundColor": "#fff",
+      "borderRadius": 10,
+      "elevation": 5,
+      "flexDirection": "column",
+      "marginBottom": 15,
+      "opacity": 1,
+      "padding": 20,
+      "shadowColor": "#000",
+      "shadowOffset": Object {
+        "height": 2,
+        "width": 0,
+      },
+      "shadowOpacity": 0.25,
+      "shadowRadius": 3.84,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "marginBottom": 10,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#55427A",
+        }
+      }
+    >
+      Confirmed
+    </Text>
+  </View>
+  <Text
+    style={
+      Object {
+        "paddingBottom": 4,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "fontWeight": "bold",
+        }
+      }
+    >
+      Booking With
+      : 
+    </Text>
+     
+    Janet Stevans
+  </Text>
+  <Text
+    style={
+      Object {
+        "paddingBottom": 4,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "fontWeight": "bold",
+        }
+      }
+    >
+      Date
+      : 
+    </Text>
+     
+    October 13th 2020, 8:45 am
+  </Text>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "fontWeight": "bold",
+        }
+      }
+    >
+      Duration
+      : 
+    </Text>
+    <Text
+      style={
+        Object {
+          "marginRight": 5,
+        }
+      }
+    >
+      1
+       
+      hours
+    </Text>
+    <Text>
+      24
+       
+      minutes
+    </Text>
+  </View>
+</View>
+`;

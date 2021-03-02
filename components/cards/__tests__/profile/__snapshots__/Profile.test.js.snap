@@ -1,0 +1,220 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Profile component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#fff",
+      "borderRadius": 10,
+      "elevation": 5,
+      "marginBottom": 15,
+      "padding": 20,
+      "shadowColor": "#000",
+      "shadowOffset": Object {
+        "height": 2,
+        "width": 0,
+      },
+      "shadowOpacity": 0.25,
+      "shadowRadius": 3.84,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+      }
+    }
+  >
+    <Image
+      source={1}
+      style={
+        Object {
+          "borderRadius": 75,
+          "height": 120,
+          "width": 120,
+        }
+      }
+    />
+    <Text
+      style={
+        Object {
+          "fontSize": 20,
+          "fontWeight": "bold",
+          "paddingBottom": 8,
+          "paddingTop": 10,
+        }
+      }
+    >
+      Janet Stevans
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "#55427A",
+          "fontSize": 16,
+          "fontWeight": "bold",
+        }
+      }
+    >
+      0
+       
+      GBP
+       
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "borderBottomColor": "#55427A",
+        "borderBottomWidth": 0.5,
+        "paddingBottom": 10,
+        "paddingTop": 10,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "paddingBottom": 5,
+        }
+      }
+    >
+      Contacts
+    </Text>
+    <Text>
+      76236828
+    </Text>
+    <Text>
+      email@j.com
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "borderBottomColor": "#55427A",
+        "borderBottomWidth": 0.5,
+        "paddingBottom": 10,
+        "paddingTop": 10,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "paddingBottom": 5,
+        }
+      }
+    >
+      About me
+    </Text>
+    <Text>
+      about me
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "borderBottomColor": "#55427A",
+        "borderBottomWidth": 0.5,
+        "paddingBottom": 10,
+        "paddingTop": 10,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "paddingBottom": 5,
+        }
+      }
+    >
+      Children
+    </Text>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "flexWrap": "wrap",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flexDirection": "column",
+            "justifyContent": "center",
+            "margin": 5,
+          }
+        }
+      >
+        <Image
+          source={1}
+          style={
+            Object {
+              "height": 25,
+              "margin": 5,
+              "width": 25,
+            }
+          }
+        />
+        <Text>
+          2
+           
+          years
+           
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "borderBottomColor": "#55427A",
+        "borderBottomWidth": 0.5,
+        "paddingBottom": 10,
+        "paddingTop": 10,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "paddingBottom": 5,
+        }
+      }
+    >
+      Address
+    </Text>
+    <Text>
+      House Number
+      : 
+      2
+    </Text>
+    <Text>
+      Postcode
+      : 
+      3BD ST
+    </Text>
+    <Text>
+      Street
+      : 
+      James Bond
+    </Text>
+    <Text>
+      Town
+      :  
+      London
+    </Text>
+  </View>
+</View>
+`;

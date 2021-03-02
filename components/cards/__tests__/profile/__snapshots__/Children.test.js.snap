@@ -1,0 +1,80 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Children component renders correctly 1`] = `
+Array [
+  <Text
+    style={
+      Object {
+        "fontSize": 16,
+        "fontWeight": "bold",
+        "paddingBottom": 5,
+      }
+    }
+  >
+    Children
+  </Text>,
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+        "flexWrap": "wrap",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "column",
+          "justifyContent": "center",
+          "margin": 5,
+        }
+      }
+    >
+      <Image
+        source={1}
+        style={
+          Object {
+            "height": 25,
+            "margin": 5,
+            "width": 25,
+          }
+        }
+      />
+      <Text>
+        2
+         
+        years
+         
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "column",
+          "justifyContent": "center",
+          "margin": 5,
+        }
+      }
+    >
+      <Image
+        source={1}
+        style={
+          Object {
+            "height": 25,
+            "margin": 5,
+            "width": 25,
+          }
+        }
+      />
+      <Text>
+        11
+         
+        years
+         
+      </Text>
+    </View>
+  </View>,
+]
+`;
